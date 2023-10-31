@@ -1,0 +1,1547 @@
+,First_character,Second_character,Shared_time
+0,Billy Butcher,Hughie Campbell,1043.0
+2,Mother’s Milk,Hughie Campbell,832.0
+4,Billy Butcher,Mother’s Milk,811.0
+6,Mother’s Milk,Frenchie,792.0
+8,Frenchie,The Female,735.0
+10,Frenchie,Hughie Campbell,711.0
+12,Hughie Campbell,Starlight,696.0
+14,Frenchie,Billy Butcher,654.0
+16,Mother’s Milk,The Female,566.0
+18,The Female,Hughie Campbell,415.0
+20,The Female,Billy Butcher,361.0
+22,Starlight,Mother’s Milk,333.0
+24,Homelander,Starlight,329.0
+26,Homelander,Queen Maeve,291.0
+28,Ashley Barrett,Homelander,261.0
+30,Stormfront,Homelander,253.0
+32,Starlight,Ashley Barrett,251.0
+34,Billy Butcher,Starlight,242.0
+36,Queen Maeve,Starlight,230.0
+38,Homelander,Billy Butcher,229.0
+40,Homelander,Madelyn Stillwell,208.0
+42,Frenchie,Starlight,201.0
+44,Homelander,Ryan,191.0
+46,Hughie Campbell,A-Train,184.0
+48,Starlight,A-Train,184.0
+50,Homelander,Hughie Campbell,183.0
+52,Starlight,The Female,173.0
+54,Stormfront,Starlight,152.0
+56,Billy Butcher,Grace Mallory,146.0
+58,Ashley Barrett,A-Train,144.0
+60,Becca Butcher,Billy Butcher,144.0
+62,Homelander,A-Train,139.0
+64,Homelander,Black Noir,138.0
+66,Homelander,Becca Butcher,136.0
+68,Billy Butcher,Ryan,135.0
+70,Starlight,Donna January,134.0
+72,Homelander,The Deep,133.0
+74,Ryan,Becca Butcher,128.0
+76,Starlight,Black Noir,124.0
+78,Soldier Boy,Billy Butcher,124.0
+80,A-Train,Frenchie,124.0
+82,Black Noir,Queen Maeve,124.0
+84,Mother’s Milk,A-Train,119.0
+86,Billy Butcher,A-Train,118.0
+88,Starlight,The Deep,118.0
+90,Queen Maeve,Ashley Barrett,110.0
+92,Hughie Campbell,Queen Maeve,108.0
+94,Popclaw,Billy Butcher,107.0
+96,Popclaw,Frenchie,106.0
+98,Popclaw,Mother’s Milk,105.0
+100,Hughie Campbell,Popclaw,105.0
+102,Stan Edgar,Homelander,102.0
+104,A-Train,Nathan,101.0
+106,Queen Maeve,Billy Butcher,101.0
+108,Frenchie,Homelander,98.0
+110,Grace Mallory,Mother’s Milk,97.0
+112,Cherie,Frenchie,95.0
+114,A-Train,Queen Maeve,94.0
+116,The Female,Kenji Miyashiro,94.0
+117,Soldier Boy,Hughie Campbell,94.0
+120,Black Noir,A-Train,92.0
+122,Popclaw,A-Train,91.0
+124,Ashley Barrett,Stormfront,91.0
+126,The Deep,Ashley Barrett,90.0
+128,Queen Maeve,Stormfront,88.0
+130,Grace Mallory,Hughie Campbell,88.0
+132,Nurse,Mother’s Milk,87.0
+134,Ashley Barrett,Hughie Campbell,84.0
+136,A-Train,The Deep,83.0
+138,Mother’s Milk,Homelander,83.0
+140,Starlight,Supersonic,83.0
+142,Ryan,Stormfront,82.0
+144,Nurse,Frenchie,81.0
+146,Billy Butcher,Translucent,81.0
+148,Black Noir,Ashley Barrett,78.0
+150,Translucent,Hughie Campbell,76.0
+152,Hughie Campbell,Black Noir,76.0
+154,Nurse,The Female,74.0
+156,The Deep,Cassandra,73.0
+158,Hughie Campbell,Shockwave,73.0
+160,Ashley Barrett,Madelyn Stillwell,72.0
+162,Shockwave,Mother’s Milk,72.0
+164,Hugh Campbell,Hughie Campbell,71.0
+166,Stormfront,The Female,71.0
+168,Frenchie,Shockwave,70.0
+170,Homelander,Victoria Neuman,69.0
+172,Stan Edgar,Starlight,68.0
+174,Queen Maeve,Elena,68.0
+176,Shockwave,A-Train,65.0
+178,Ezekiel,Hughie Campbell,63.0
+180,Frenchie,Kenji Miyashiro,62.0
+182,Billy Butcher,Stormfront,61.0
+184,Black Noir,Mother’s Milk,61.0
+186,Hughie Campbell,Victoria Neuman,60.0
+188,Donna January,Ashley Barrett,60.0
+190,Supersonic,Homelander,59.0
+192,Shockwave,Billy Butcher,58.0
+194,Becca Butcher,Stormfront,56.0
+195,Mother’s Milk,Queen Maeve,56.0
+198,Judy Atkinson,Billy Butcher,56.0
+200,Hughie Campbell,Donna January,55.0
+202,Black Noir,Billy Butcher,55.0
+204,Madelyn Stillwell,Starlight,55.0
+206,Popclaw,Shockwave,53.0
+208,Frenchie,Stormfront,52.0
+210,Queen Maeve,The Deep,52.0
+212,Nathan,Starlight,52.0
+214,Frenchie,Translucent,51.0
+216,Frenchie,Grace Mallory,50.0
+218,Kenji Miyashiro,Billy Butcher,50.0
+220,Billy Butcher,Ashley Barrett,50.0
+222,Homelander,Ezekiel,50.0
+224,Nathan,Hughie Campbell,50.0
+226,Homelander,The Female,49.0
+228,Hughie Campbell,Kenji Miyashiro,49.0
+230,Kenji Miyashiro,Mother’s Milk,49.0
+232,Stormfront,Black Noir,48.0
+234,Stormfront,Hughie Campbell,48.0
+236,Judy Atkinson,Hughie Campbell,48.0
+238,Judy Atkinson,Mother’s Milk,48.0
+240,Translucent,Homelander,47.0
+242,Homelander,Nathan,47.0
+244,Stormfront,Mother’s Milk,46.0
+246,A-Train,Stormfront,46.0
+248,Black Noir,Stan Edgar,46.0
+250,Ashley Barrett,Stan Edgar,46.0
+252,Madelyn Stillwell,The Deep,46.0
+254,Susan Raynor,Billy Butcher,45.0
+256,Also Ashley,Ashley Barrett,45.0
+258,Billy Butcher,Madelyn Stillwell,45.0
+260,Ryan,The Female,44.0
+262,Frenchie,Queen Maeve,44.0
+264,Black Noir,Nathan,44.0
+266,Hughie Campbell,Nurse,44.0
+268,Soldier Boy,Homelander,43.0
+270,Nathan,Queen Maeve,42.0
+272,A-Train,The Female,42.0
+274,Queen Maeve,Madelyn Stillwell,42.0
+276,Janine,Mother’s Milk,42.0
+278,Frenchie,Becca Butcher,41.0
+280,Starlight,Victoria Neuman,41.0
+282,Seth Reed,Ashley Barrett,41.0
+284,Starlight,Ezekiel,41.0
+286,Becca Butcher,The Female,41.0
+288,Becca Butcher,Mother’s Milk,40.0
+290,The Deep,Black Noir,40.0
+292,Ryan,Mother’s Milk,40.0
+294,Seth Reed,Evan Lambert,40.0
+296,Cassandra,Homelander,39.0
+298,Soldier Boy,Mother’s Milk,39.0
+300,Mother’s Milk,Ashley Barrett,39.0
+302,Mesmer,Mother’s Milk,39.0
+304,Little Nina,Frenchie,39.0
+306,Hughie Campbell,Female News Anchor,39.0
+308,Stan Edgar,Victoria Neuman,39.0
+310,Hugh Campbell,Frenchie,37.0
+312,Black Noir,Shockwave,36.0
+314,Hughie Campbell,Cherie,35.0
+316,Stan Edgar,Queen Maeve,35.0
+318,Hughie Campbell,The Deep,35.0
+320,Grace Mallory,The Female,33.0
+322,Aleksy Lutz,Mother’s Milk,33.0
+323,Aleksy Lutz,Frenchie,33.0
+324,Ashley Barrett,Cassandra,33.0
+325,Gary,Hughie Campbell,33.0
+326,Hughie Campbell,Aleksy Lutz,33.0
+327,Billy Butcher,Aleksy Lutz,33.0
+329,Aleksy Lutz,Popclaw,33.0
+336,Ryan,Grace Mallory,33.0
+338,Black Noir,Frenchie,33.0
+340,Evan Lambert,Ashley Barrett,32.0
+342,Ashley Barrett,Ezekiel,32.0
+344,Robin,Hughie Campbell,31.0
+346,Crimson Countess,Soldier Boy,31.0
+348,Billy Butcher,Jonah Vogelbaum,30.0
+349,The Legend,Hughie Campbell,30.0
+352,Donna January,Ezekiel,30.0
+354,Nathan,Frenchie,30.0
+355,Nathan,Shockwave,30.0
+358,Billy Butcher,Nathan,30.0
+360,Hugh Campbell,Billy Butcher,30.0
+362,Jonah Vogelbaum,Homelander,30.0
+364,Donna January,Madelyn Stillwell,30.0
+366,Queen Maeve,The Female,30.0
+368,The Female,Cherie,30.0
+370,Starlight,Gecko,29.0
+371,Shockwave,Starlight,29.0
+372,A-Train,Supersonic,29.0
+376,Gunpowder,Billy Butcher,29.0
+378,Hughie Campbell,Supersonic,29.0
+380,Eagle the Archer,The Deep,29.0
+382,Nathan,Mother’s Milk,29.0
+384,Cherie,Billy Butcher,29.0
+386,Shockwave,Homelander,29.0
+388,Also Ashley,Starlight,28.0
+389,Starlight,Pastor John,28.0
+392,Ashley Barrett,Pastor John,28.0
+394,Nathan,Popclaw,28.0
+395,Ryan,Frenchie,28.0
+398,Also Ashley,Homelander,28.0
+400,Ashley Barrett,Victoria Neuman,28.0
+402,Mother’s Milk,Hugh Campbell,27.0
+404,The Deep,Carol,27.0
+406,Pastor John,Donna January,27.0
+408,Filipino Guy,Frenchie,27.0
+410,Female News Anchor,Queen Maeve,27.0
+412,Filipino Guy,Hughie Campbell,27.0
+414,Billy Butcher,Filipino Guy,26.0
+416,A-Train,Hugh Campbell,26.0
+418,Popclaw,Starlight,26.0
+420,Stormfront,Kenji Miyashiro,26.0
+422,A-Train,Stan Edgar,25.0
+424,Frenchie,Ashley Barrett,25.0
+425,Doug Friedman,Hughie Campbell,25.0
+428,Connie Butcher,Billy Butcher,25.0
+430,Supersonic,The Deep,25.0
+431,Mesmer,Billy Butcher,25.0
+432,Sonia,Billy Butcher,25.0
+436,The Female,Soldier Boy,25.0
+438,Queen Maeve,Ryan,24.0
+440,Black Noir,Madelyn Stillwell,24.0
+442,Filipino Guy,Mother’s Milk,24.0
+444,Starlight,Silver Kincaid,24.0
+445,Ashley Barrett,Supersonic,24.0
+448,A-Train,Blue Hawk,24.0
+450,Black Noir,Judy Atkinson,24.0
+452,The Legend,Billy Butcher,24.0
+454,Female News Anchor,Starlight,24.0
+455,Jonah Vogelbaum,Sonia,24.0
+458,Victoria Neuman,Grace Mallory,24.0
+459,Nurse,Grace Mallory,24.0
+460,Madelyn Stillwell,Ezekiel,24.0
+464,Stormfront,Stan Edgar,24.0
+466,Queen Maeve,Adam Bourke,23.0
+468,Soldier Boy,Queen Maeve,23.0
+470,Popclaw,Homelander,23.0
+472,Alastair Adana,The Deep,23.0
+474,Monique,Mother’s Milk,23.0
+476,A-Train,Alastair Adana,23.0
+478,Starlight,Seth Reed,23.0
+480,Starlight,Evan Lambert,22.0
+482,Buster Beaver,Black Noir,22.0
+484,Donna January,Mother’s Milk,22.0
+486,The Female,Mesmer,22.0
+488,Susan Raynor,Mother’s Milk,22.0
+490,Becca Butcher,Madelyn Stillwell,22.0
+491,Ashley Barrett,Shockwave,22.0
+494,Doug Friedman,Ashley Barrett,22.0
+498,Billy Butcher,Nurse,22.0
+500,Mesmer,Frenchie,21.0
+502,Doug Friedman,A-Train,21.0
+503,Translucent,Queen Maeve,21.0
+506,Pastor John,Ezekiel,21.0
+507,Susan Raynor,Frenchie,21.0
+509,Tall Terrorist,Heavy Terrorist,21.0
+510,The Deep,Translucent,21.0
+514,Silver Kincaid,Moonshadow,21.0
+516,Emotional Donor,Homelander,21.0
+517,Emotional Donor,Hughie Campbell,21.0
+520,Tall Terrorist,Clean Cut Terrorist,21.0
+521,Heavy Terrorist,Clean Cut Terrorist,21.0
+522,Hughie Campbell,Susan Raynor,21.0
+526,Clean Cut Terrorist,Cute Little Girl,21.0
+527,Heavy Terrorist,Cute Little Girl,21.0
+528,Cute Little Girl,Sweet Mom,21.0
+530,Tall Terrorist,Sweet Mom,21.0
+532,Cute Little Girl,Tall Terrorist,21.0
+534,Heavy Terrorist,Sweet Mom,21.0
+535,Ezekiel,Emotional Donor,21.0
+538,Clean Cut Terrorist,Sweet Mom,21.0
+542,Stan Edgar,Secretary of Defense Robert A. Singer,21.0
+544,Supersonic,Silver Kincaid,21.0
+545,Donna January,Billy Butcher,21.0
+548,Supersonic,Moonshadow,21.0
+550,Billy Butcher,The Deep,21.0
+552,Starlight,Soldier Boy,21.0
+554,Also Ashley,A-Train,21.0
+556,Starlight,Valerie,20.0
+557,Hughie Campbell,Valerie,20.0
+558,Mother’s Milk,Valerie,20.0
+559,Translucent,Cherie,20.0
+564,Black Noir,Popclaw,20.0
+566,Nurse,Stormfront,20.0
+568,Starlight,Translucent,20.0
+570,A-Train,Aleksy Lutz,20.0
+572,Cute Little Girl,Queen Maeve,20.0
+573,Tall Terrorist,Queen Maeve,20.0
+574,Clean Cut Terrorist,Queen Maeve,20.0
+575,Heavy Terrorist,Queen Maeve,20.0
+576,Sweet Mom,Queen Maeve,20.0
+582,Janine,Monique,20.0
+586,Nurse,Cindy,20.0
+587,Frenchie,Cindy,20.0
+588,Mother’s Milk,Cindy,20.0
+590,Cindy,The Female,20.0
+594,X-Ray Tech,Billy Butcher,19.0
+595,Supe Gospel Singer,Starlight,19.0
+596,X-Ray Tech,Hughie Campbell,19.0
+597,Donna January,The Deep,19.0
+602,Hughie Campbell,Supe Gospel Singer,19.0
+603,Senator Calhoun,Madelyn Stillwell,19.0
+605,Black Noir,Seth Rogen,19.0
+608,Seth Rogen,Mother’s Milk,19.0
+610,Todd,Janine,19.0
+612,Also Ashley,Seth Reed,19.0
+614,Sweet Mom,Homelander,19.0
+615,Eagle the Archer,Carol,19.0
+616,Tall Terrorist,Homelander,19.0
+618,Cute Little Girl,Homelander,19.0
+619,Clean Cut Terrorist,Homelander,19.0
+620,Seth Reed,Madelyn Stillwell,19.0
+623,Heavy Terrorist,Homelander,19.0
+628,Moonshadow,Starlight,19.0
+629,Madelyn Stillwell,Evan Lambert,19.0
+632,Hughie Campbell,Monique,19.0
+634,Monique,Hugh Campbell,19.0
+635,Queen Maeve,Popclaw,19.0
+638,Shockwave,Queen Maeve,19.0
+640,Frenchie,Monique,19.0
+642,Soldier Boy,Ryan,19.0
+644,Homelander,Grace Mallory,19.0
+646,Billy Butcher,Doug Friedman,19.0
+647,Black Noir,Young Mesmer,19.0
+648,Young Mesmer,Seth Rogen,19.0
+650,Stan Edgar,Billy Butcher,19.0
+654,Hughie Campbell,Random dude,19.0
+656,Robin,Starlight,18.0
+657,Sam,Billy Butcher,18.0
+660,Translucent,A-Train,18.0
+661,Tessa,Tommy,18.0
+664,Soldier Boy,Frenchie,18.0
+666,Billy Zane,Black Noir,18.0
+668,Janine,Hugh Campbell,18.0
+669,Hughie Campbell,Janine,18.0
+670,Frenchie,Janine,18.0
+671,Mother’s Milk,The Legend,18.0
+676,Ashley Barrett,Adam Bourke,18.0
+678,Mindstorm,Hughie Campbell,18.0
+679,Mother’s Milk,Todd,18.0
+682,Seth Rogen,Mesmer,18.0
+683,Young Mesmer,Mesmer,18.0
+684,Frenchie,Victoria Neuman,18.0
+686,Mesmer,Black Noir,18.0
+690,Translucent,Madelyn Stillwell,18.0
+692,Monique,Billy Butcher,18.0
+694,Homelander,Cherie,17.0
+695,Shockwave,ESPN Interviewer,17.0
+698,Adam Bourke,Stormfront,17.0
+700,Supersonic,Stan Edgar,17.0
+701,Sam Butcher,Billy Butcher,17.0
+704,A-Train,Madelyn Stillwell,17.0
+705,Victoria Neuman,The Female,17.0
+708,Mother’s Milk,Vought News Host,17.0
+709,Translucent,Gary,17.0
+711,Frenchie,Vought News Host,17.0
+712,Starlight,Vought News Host,17.0
+713,Nathan,Vought News Host,17.0
+714,Hughie Campbell,Vought News Host,17.0
+715,Queen Maeve,Vought News Host,17.0
+716,Black Noir,Vought News Host,17.0
+717,Popclaw,Vought News Host,17.0
+718,Shockwave,Vought News Host,17.0
+719,Seth Rogen,Billy Zane,17.0
+720,Homelander,Vought News Host,17.0
+722,Billy Zane,Mesmer,17.0
+723,A-Train,Vought News Host,17.0
+728,Billy Butcher,Vought News Host,17.0
+734,Billy Zane,Young Mesmer,17.0
+740,Janine,Billy Butcher,17.0
+742,Victoria Neuman,Mother’s Milk,17.0
+744,Jonah Vogelbaum,Grace Mallory,17.0
+746,Jonah Vogelbaum,Mother’s Milk,17.0
+747,Homelander,Kenji Miyashiro,17.0
+750,The Female,Hugh Campbell,17.0
+752,Young Mesmer,Mother’s Milk,17.0
+753,Billy Zane,Mother’s Milk,17.0
+754,Stormfront,The Deep,17.0
+758,Supersonic,Also Ashley,17.0
+760,Aleksy Lutz,Shockwave,17.0
+762,Starlight,Adam Bourke,17.0
+764,Production Assistant,Stormfront,17.0
+766,Seth Rogen,Shockwave,17.0
+767,Shockwave,Young Mesmer,17.0
+769,Billy Zane,Shockwave,17.0
+770,Mesmer,Shockwave,17.0
+774,Cute Little Girl,Flight Attendant,16.0
+775,Flight Attendant,Homelander,16.0
+776,Queen Maeve,Flight Attendant,16.0
+777,Mesmer,Hughie Campbell,16.0
+778,Clean Cut Terrorist,Flight Attendant,16.0
+779,Frenchie,Yevgenny,16.0
+780,Sweet Mom,Flight Attendant,16.0
+782,Tall Terrorist,Flight Attendant,16.0
+785,Starlight,Production Assistant,16.0
+786,Heavy Terrorist,Flight Attendant,16.0
+794,The Deep,Gills,16.0
+796,Hughie Campbell,Madelyn Stillwell,16.0
+797,Mesmer,Tara Reid,16.0
+799,Young Mesmer,Tara Reid,16.0
+800,Tara Reid,Shockwave,16.0
+802,Tara Reid,Mother’s Milk,16.0
+803,Billy Zane,Tara Reid,16.0
+805,Female News Anchor,Homelander,16.0
+808,Tara Reid,Seth Rogen,16.0
+810,Tara Reid,Black Noir,16.0
+814,Homelander,Cameron Coleman,16.0
+816,Soldier Boy,Young Black Noir,16.0
+818,Supe Gospel Singer,Mother’s Milk,16.0
+819,Billy Butcher,Supe Gospel Singer,16.0
+822,Mindstorm,Billy Butcher,16.0
+824,Ezekiel,Billy Butcher,16.0
+826,Homelander,Donna January,16.0
+827,Young Stan Edgar,Young Grace,16.0
+830,Victoria Neuman,Queen Maeve,16.0
+832,Soldier Boy,Tessa,16.0
+833,Random dude,Victoria Neuman,16.0
+834,Ashley Barrett,Translucent,16.0
+838,Becca Butcher,Queen Maeve,16.0
+840,Deeaygo,Mother’s Milk,16.0
+841,Oslo,Deeaygo,16.0
+842,Oslo,Mother’s Milk,16.0
+846,Secretary of Defense Robert A. Singer,Victoria Neuman,15.0
+847,Cockpit Terrorist,Flight Attendant,15.0
+848,Cockpit Terrorist,Homelander,15.0
+849,Cockpit Terrorist,Heavy Terrorist,15.0
+850,Cute Little Girl,Cockpit Terrorist,15.0
+851,Nathan,Ashley Barrett,15.0
+853,Tall Terrorist,Cockpit Terrorist,15.0
+855,Queen Maeve,Cockpit Terrorist,15.0
+857,Sweet Mom,Cockpit Terrorist,15.0
+859,Clean Cut Terrorist,Cockpit Terrorist,15.0
+861,Ashley Barrett,Popclaw,15.0
+868,Ashley Barrett,Vought News Host,15.0
+870,Pastor John,Madelyn Stillwell,15.0
+872,A-Train,Girl,15.0
+873,Black Noir,Girl,15.0
+874,Homelander,Girl,15.0
+875,Queen Maeve,Girl,15.0
+877,Mother’s Milk,Girl,15.0
+878,Girl,Vought News Host,15.0
+881,Girl,Nathan,15.0
+882,Frenchie,Girl,15.0
+883,Ashley Barrett,Girl,15.0
+884,Popclaw,Girl,15.0
+885,Starlight,Girl,15.0
+887,Shockwave,Girl,15.0
+889,Billy Butcher,Girl,15.0
+894,Hughie Campbell,Girl,15.0
+900,Guy,Shockwave,15.0
+901,Guy,Mother’s Milk,15.0
+902,Guy,Billy Zane,15.0
+904,Guy,Mesmer,15.0
+905,Guy,Black Noir,15.0
+906,Guy,Young Mesmer,15.0
+907,Zoe,Victoria Neuman,15.0
+909,Guy,Seth Rogen,15.0
+913,Guy,Tara Reid,15.0
+918,X-Ray Tech,Ashley Barrett,15.0
+919,Doug Friedman,X-Ray Tech,15.0
+922,Sheila,Billy Butcher,15.0
+923,Guy,Jersey Girl,15.0
+924,Jersey Girl,Black Noir,15.0
+925,Tara Reid,Jersey Girl,15.0
+926,Tara Reid,Photographer,15.0
+927,Photographer,Seth Rogen,15.0
+928,Jersey Girl,Seth Rogen,15.0
+929,Young Mesmer,Photographer,15.0
+931,Hughie Campbell,Sheila,15.0
+932,Young Mesmer,Jersey Girl,15.0
+933,Photographer,Jersey Girl,15.0
+934,Photographer,Shockwave,15.0
+936,Shockwave,Jersey Girl,15.0
+937,Mesmer,Jersey Girl,15.0
+938,Mesmer,Photographer,15.0
+940,Photographer,Mother’s Milk,15.0
+941,Photographer,Black Noir,15.0
+942,Photographer,Billy Zane,15.0
+943,Guy,Photographer,15.0
+944,Jersey Girl,Mother’s Milk,15.0
+950,Hughie Campbell,Security Guard,15.0
+952,Mother’s Milk,Security Guard,15.0
+956,Frenchie,Security Guard,15.0
+958,Jersey Girl,Billy Zane,15.0
+961,Stormfront,Security Guard,15.0
+962,Security Guard,Billy Butcher,15.0
+963,The Female,Security Guard,15.0
+970,Starlight,Security Guard,15.0
+971,Filipino Guy,Popclaw,15.0
+980,Donna January,Supe Gospel Singer,15.0
+982,A-Train,X-Ray Tech,15.0
+984,Hughie Campbell,ESPN Interviewer,15.0
+985,Seth Reed,Sheila,15.0
+986,Seth Reed,Hughie Campbell,15.0
+989,Seth Reed,Billy Butcher,15.0
+992,Termite,Frenchie,15.0
+993,ESPN Interviewer,Frenchie,15.0
+996,Hughie Campbell,Ryan,15.0
+998,Kenji Miyashiro,Starlight,15.0
+1000,Sam Butcher,Connie Butcher,14.0
+1001,Also Ashley,Stan Edgar,14.0
+1004,Queen Maeve,Ruby,14.0
+1005,Becca Butcher,Jonah Vogelbaum,14.0
+1006,Queen Maeve,Self,14.0
+1008,Self,Homelander,14.0
+1012,Blue Hawk,Nathan,14.0
+1013,Moe,The Female,14.0
+1014,Yevgenny,Little Nina,14.0
+1018,Madelyn Stillwell,Jonah Vogelbaum,14.0
+1019,Mother’s Milk,Ezekiel,14.0
+1022,Victoria Neuman,Billy Butcher,14.0
+1024,Heckling Fan,Girl,14.0
+1025,Heckling Fan,Frenchie,14.0
+1026,Heckling Fan,Shockwave,14.0
+1027,Popclaw,Heckling Fan,14.0
+1028,Heckling Fan,A-Train,14.0
+1030,Mother’s Milk,Heckling Fan,14.0
+1031,Homelander,Heckling Fan,14.0
+1032,Starlight,Heckling Fan,14.0
+1034,Heckling Fan,Nathan,14.0
+1035,Heckling Fan,Ashley Barrett,14.0
+1036,Heckling Fan,Black Noir,14.0
+1039,Heckling Fan,Queen Maeve,14.0
+1041,Heckling Fan,Vought News Host,14.0
+1042,Heckling Fan,Hughie Campbell,14.0
+1044,Heckling Fan,Billy Butcher,14.0
+1054,Little Nina,Cherie,14.0
+1055,Yevgenny,Cherie,14.0
+1058,Popclaw,Heckling Fan's Friend,14.0
+1059,Heckling Fan's Friend,Frenchie,14.0
+1060,Heckling Fan's Friend,Nathan,14.0
+1061,Mother’s Milk,Heckling Fan's Friend,14.0
+1062,Heckling Fan's Friend,Black Noir,14.0
+1063,Queen Maeve,Gary,14.0
+1064,Heckling Fan's Friend,Starlight,14.0
+1065,Shockwave,Heckling Fan's Friend,14.0
+1066,Homelander,Heckling Fan's Friend,14.0
+1067,Heckling Fan's Friend,Queen Maeve,14.0
+1069,Heckling Fan's Friend,Vought News Host,14.0
+1070,Heckling Fan's Friend,Ashley Barrett,14.0
+1072,Heckling Fan's Friend,Heckling Fan,14.0
+1073,Billy Butcher,Heckling Fan's Friend,14.0
+1075,Gary,Female News Anchor,14.0
+1076,Heckling Fan's Friend,Girl,14.0
+1077,Heckling Fan's Friend,A-Train,14.0
+1080,Cameron Coleman,Ashley Barrett,14.0
+1085,Hughie Campbell,Heckling Fan's Friend,14.0
+1086,Chelsea,Homelander,14.0
+1098,Hughie Campbell,Becca Butcher,14.0
+1100,Queen Maeve,Evan Lambert,14.0
+1101,Female News Anchor,Supersonic,14.0
+1102,Seth Reed,Queen Maeve,14.0
+1106,Todd,Monique,14.0
+1108,Young Black Noir,Black Noir,13.0
+1109,Buster Beaver,Young Black Noir,13.0
+1111,Jeff,The Deep,13.0
+1114,The Deep,Vought Waiter,13.0
+1115,Homelander,Vought Waiter,13.0
+1116,Ashley Barrett,Vought Waiter,13.0
+1119,Cassandra,Vought Waiter,13.0
+1122,Supersonic,Queen Maeve,13.0
+1124,Seth Reed,Lydia Parker,13.0
+1125,Billy Butcher,Lydia Parker,13.0
+1126,Homelander,Senator Calhoun,13.0
+1128,Lydia Parker,Sheila,13.0
+1130,Lydia Parker,Hughie Campbell,13.0
+1134,Senator Calhoun,Queen Maeve,13.0
+1135,The Deep,Pastor John,13.0
+1137,Pastor John,Hughie Campbell,13.0
+1139,The Deep,Ezekiel,13.0
+1141,Billy Butcher,Gary,13.0
+1144,Young Black Noir,Young Grace,13.0
+1146,Black Noir,Adam Bourke,13.0
+1148,Mother’s Milk,Cherie,13.0
+1149,Crimson Countess,Frenchie,13.0
+1150,Teen,Billy Butcher,13.0
+1152,The Female,Crimson Countess,13.0
+1156,Billy Butcher,Deeaygo,13.0
+1157,Homelander,Silver Kincaid,13.0
+1158,Starlight,Cassandra,13.0
+1161,Billy Butcher,Oslo,13.0
+1164,Ashley Barrett,Supe Gospel Singer,13.0
+1165,Homelander,Moonshadow,13.0
+1168,Young Black Noir,Crimson Countess,13.0
+1170,The Deep,Silver Kincaid,12.0
+1172,Black Noir,Soldier Boy,12.0
+1173,Soldier Boy,Buster Beaver,12.0
+1176,The Deep,Moonshadow,12.0
+1178,Kenji Miyashiro,Stan Edgar,12.0
+1180,Starlight,Becca Butcher,12.0
+1182,Robin,Queen Maeve,12.0
+1184,Robin,Gary,12.0
+1185,Female News Anchor,Robin,12.0
+1188,Robin,Billy Butcher,12.0
+1190,Ashley Barrett,Isadora,12.0
+1192,Billy Butcher,Teen Butcher,12.0
+1193,Madelyn Stillwell,Isadora,12.0
+1194,Seth Reed,Isadora,12.0
+1196,Isadora,Starlight,12.0
+1200,Evan Lambert,Isadora,12.0
+1202,The Deep,The Female,12.0
+1203,The Deep,Kenji Miyashiro,12.0
+1204,The Deep,Mother’s Milk,12.0
+1206,Frenchie,The Deep,12.0
+1210,Cop,Homelander,12.0
+1211,Cop,Queen Maeve,12.0
+1213,Billy Butcher,Young Butcher,12.0
+1215,Teen Butcher,Teen,12.0
+1218,Tommy,Soldier Boy,12.0
+1219,Elena,Homelander,12.0
+1222,Young Grace,Swatto,12.0
+1224,The Deep,Cameron Coleman,12.0
+1226,Moe,Oligarch,11.0
+1227,The Legend,Soldier Boy,11.0
+1228,Oligarch,The Female,11.0
+1230,Oligarch,Woman,11.0
+1231,Woman,The Female,11.0
+1232,Woman,Moe,11.0
+1236,Dennis,Starlight,11.0
+1237,Stan Edgar,Doug Friedman,11.0
+1239,Soldier Boy,Mindstorm,11.0
+1241,Starlight,Male News Anchor,11.0
+1246,Male News Anchor,Madelyn Stillwell,11.0
+1248,Starlight,Officer,11.0
+1250,Doug Friedman,Secretary of Defense Robert A. Singer,11.0
+1251,Starlight,Grace Mallory,11.0
+1254,Kenji Miyashiro,Queen Maeve,11.0
+1255,Kenji Miyashiro,A-Train,11.0
+1256,Kenji Miyashiro,Black Noir,11.0
+1258,Starlight,Stage Manager,11.0
+1259,Male News Anchor,Female News Anchor,11.0
+1264,Ashley Barrett,Deanna,11.0
+1265,Ashley Barrett,The Female,11.0
+1268,Hughie Campbell,Dennis,11.0
+1269,Dennis,Billy Butcher,11.0
+1271,Male News Anchor,Homelander,11.0
+1274,Blindspot,Homelander,11.0
+1275,Ashley Barrett,Blindspot,11.0
+1278,Kenji Miyashiro,Ashley Barrett,11.0
+1280,Deanna,Homelander,11.0
+1281,Donna January,Stormfront,11.0
+1284,Seth Reed,Silver Kincaid,11.0
+1286,Evan Lambert,Silver Kincaid,11.0
+1287,Male News Anchor,Queen Maeve,11.0
+1289,Grace Mallory,Ashley Barrett,11.0
+1290,Stage Manager,Homelander,11.0
+1294,Starlight,Believe Attendee,11.0
+1295,The Female,Janine,11.0
+1296,The Female,Monique,11.0
+1297,Ezekiel,Believe Attendee,11.0
+1300,Ashley Barrett,Believe Attendee,11.0
+1302,Donna January,Believe Attendee,11.0
+1306,Stan Edgar,Hughie Campbell,11.0
+1308,Mother’s Milk,Scientist,11.0
+1309,Homelander,S.W.A.T Captain,11.0
+1310,Cop,S.W.A.T Captain,11.0
+1311,S.W.A.T Captain,Queen Maeve,11.0
+1316,Seth Reed,A-Train,11.0
+1318,Starlight,Doug Friedman,10.0
+1319,Ezekiel,Supe Gospel Singer,10.0
+1320,Starlight,X-Ray Tech,10.0
+1321,Homelander,Maverick,10.0
+1326,Silver Kincaid,Ashley Barrett,10.0
+1328,Evan Lambert,Also Ashley,10.0
+1329,Also Ashley,Silver Kincaid,10.0
+1332,Crimson Countess,Young Grace,10.0
+1333,Stormfront,Chelsea,10.0
+1334,Starlight,Teen Girl On the Street,10.0
+1336,Black Noir,The Female,10.0
+1339,Teen Girl On the Street,Male News Anchor,10.0
+1340,Female News Anchor,Teen Girl On the Street,10.0
+1342,Queen Maeve,Teen Girl On the Street,10.0
+1346,Entertainment Reporter,Stormfront,10.0
+1348,Susan Raynor,The Female,10.0
+1349,Homelander,Nurse,10.0
+1352,Billy Butcher,Crimson Countess,10.0
+1354,Stormfront,Grace Mallory,10.0
+1355,Stormfront,Victoria Neuman,10.0
+1358,Senator Calhoun,Female Bartender,10.0
+1360,Grace Mallory,Queen Maeve,10.0
+1362,Madelyn Stillwell,Mayor of Baltimore,10.0
+1364,Tessa,Crimson Countess,10.0
+1366,Mother’s Milk,Sonia,10.0
+1367,Sam,Young Butcher,10.0
+1368,Homelander,Todd,10.0
+1369,Grace Mallory,Sonia,10.0
+1376,Frenchie,Jay,10.0
+1377,Cherie,Jay,10.0
+1380,Hughie Campbell,Teen Girl On the Street,10.0
+1381,A-Train,Cassandra,10.0
+1383,Hughie Campbell,Male News Anchor,10.0
+1386,Minister,Grace Mallory,10.0
+1387,Starlight,Heckler,10.0
+1388,Heckler,Homelander,10.0
+1389,Mother’s Milk,Crimson Countess,10.0
+1394,Elena,Seth Reed,9.0
+1395,Vanessa,Hughie Campbell,9.0
+1396,Evan Lambert,Elena,9.0
+1398,Elena,Ashley Barrett,9.0
+1402,Heckler,Stan Edgar,9.0
+1403,Maeve's Dad,Queen Maeve,9.0
+1406,Frenchie,Peter,9.0
+1407,Ashley Barrett,Heckler,9.0
+1408,Heckler,Also Ashley,9.0
+1412,Homelander,Seth Reed,9.0
+1413,Madelyn Stillwell,Hugh Campbell,9.0
+1414,Black Noir,Translucent,9.0
+1415,Tessa,Young Black Noir,9.0
+1416,Little Nina,Billy Butcher,9.0
+1417,Starlight,Ryan,9.0
+1423,Starlight,Nurse,9.0
+1426,Tim,Mother’s Milk,9.0
+1427,Starlight,Tim,9.0
+1428,Tim,The Female,9.0
+1429,Tim,Security Guard,9.0
+1430,Tim,Stormfront,9.0
+1431,Queen Maeve,Officer,9.0
+1433,Ashley Barrett,Hugh Campbell,9.0
+1434,Frenchie,Tim,9.0
+1435,Billy Butcher,Tim,9.0
+1436,Evan Lambert,Homelander,9.0
+1441,Hughie Campbell,Tim,9.0
+1448,Zoe,Stan Edgar,9.0
+1449,Young Stan Edgar,Young Black Noir,9.0
+1452,Khamari,Desean,9.0
+1454,A-Train,Khamari,9.0
+1455,Desean,Nathan,9.0
+1456,Desean,A-Train,9.0
+1460,Nathan,Khamari,9.0
+1462,Moonshadow,Hughie Campbell,9.0
+1464,Desean,Arana,9.0
+1465,Arana,Nathan,9.0
+1466,Khamari,Arana,9.0
+1467,Silver Kincaid,Hughie Campbell,9.0
+1468,Arana,A-Train,9.0
+1470,Ashley Barrett,Entertainment Reporter,9.0
+1476,Buster Beaver,Stan Edgar,9.0
+1477,Entertainment Reporter,Starlight,9.0
+1478,Young Black Noir,Stan Edgar,9.0
+1482,Hugh Campbell,Shockwave,9.0
+1483,ESPN Interviewer,Hugh Campbell,9.0
+1486,Clean Cut Terrorist,Passenger #4,9.0
+1487,Cute Little Girl,Passenger #4,9.0
+1488,Flight Attendant,Passenger #4,9.0
+1489,Cockpit Terrorist,Passenger #4,9.0
+1490,Heavy Terrorist,Passenger #4,9.0
+1492,Adam Bourke,Ruby,9.0
+1493,Passenger #4,Tall Terrorist,9.0
+1495,Passenger #4,Sweet Mom,9.0
+1497,Passenger #4,Queen Maeve,9.0
+1498,Passenger #4,Homelander,9.0
+1502,Ezekiel,Black Noir,9.0
+1508,Mother’s Milk,Young Grace,9.0
+1509,A-Train,Adam Bourke,9.0
+1511,Grace Mallory,Young Grace,9.0
+1512,Billy Butcher,Young Grace,9.0
+1514,Hughie Campbell,Young Grace,9.0
+1522,Peter,Termite,9.0
+1524,Queen Maeve,Courtenay,9.0
+1525,Hugh Campbell,Susan Raynor,9.0
+1528,Young Stan Edgar,Swatto,8.0
+1530,The Deep,Molly,8.0
+1532,Self,Hughie Campbell,8.0
+1533,Pastor John,Homelander,8.0
+1534,Starlight,Ted,8.0
+1535,Maeve's Dad,Elena,8.0
+1537,Gecko,Ted,8.0
+1542,Sam,Teen Butcher,8.0
+1543,Sam,Teen,8.0
+1546,Benjy,Jamie,8.0
+1548,Donna January,A-Train,8.0
+1550,Becca Butcher,Translucent,8.0
+1552,Black Noir,Donna January,8.0
+1553,The Deep,Becca Butcher,8.0
+1556,A-Train Fan,Frenchie,8.0
+1557,A-Train Fan,Mother’s Milk,8.0
+1558,A-Train,A-Train Fan,8.0
+1559,The Female,A-Train Fan,8.0
+1562,A-Train Fan,Billy Butcher,8.0
+1566,Reporter,Stormfront,8.0
+1567,Reporter,Entertainment Reporter,8.0
+1569,Starlight,Reporter,8.0
+1570,Translucent,X-Ray Tech,8.0
+1571,Translucent,Doug Friedman,8.0
+1574,Reporter,Ashley Barrett,8.0
+1578,Donna January,Translucent,8.0
+1580,Queen Maeve,Anthony,8.0
+1582,Anthony,Hughie Campbell,8.0
+1583,Anthony,Male News Anchor,8.0
+1586,Starlight,Anthony,8.0
+1587,Anthony,Teen Girl On the Street,8.0
+1589,Female News Anchor,Anthony,8.0
+1592,Queen Maeve,Donna January,8.0
+1593,Love Sausage,Starlight,8.0
+1594,Love Sausage,Mother’s Milk,8.0
+1598,Stormfront,Jonah Vogelbaum,8.0
+1599,Ashley Barrett,Jonah Vogelbaum,8.0
+1600,Hughie Campbell,Jonah Vogelbaum,8.0
+1601,Christopher Lennertz,A-Train,8.0
+1602,Victoria Neuman,Jonah Vogelbaum,8.0
+1604,Reporter,Homelander,8.0
+1607,Reporter,Queen Maeve,8.0
+1608,Starlight,Jonah Vogelbaum,8.0
+1610,Frenchie,Jonah Vogelbaum,8.0
+1611,Queen Maeve,Jonah Vogelbaum,8.0
+1615,Jonah Vogelbaum,The Female,8.0
+1620,Madelyn Stillwell,Reporter,8.0
+1622,Ezekiel,Queen Maeve,8.0
+1624,Young Grace,Soldier Boy,8.0
+1626,Christopher Lennertz,Ashley Barrett,7.0
+1628,Street Cop,Billy Butcher,7.0
+1630,Victoria Neuman,Nurse,7.0
+1631,Lisa Concilia,Nurse,7.0
+1632,Lisa Concilia,Victoria Neuman,7.0
+1633,Ezekiel,Senator Calhoun,7.0
+1634,Valerie,Myron,7.0
+1637,Myron,Hughie Campbell,7.0
+1638,Starlight,Myron,7.0
+1641,Senator Calhoun,Black Noir,7.0
+1642,Myron,Mother’s Milk,7.0
+1645,Street Cop,Mother’s Milk,7.0
+1646,Cop,Street Cop,7.0
+1648,Cop,Mother’s Milk,7.0
+1650,Cop,Billy Butcher,7.0
+1656,Billy Butcher,Minister,7.0
+1658,Billy Butcher,Rachel,7.0
+1660,Cherie,A-Train,7.0
+1662,Self,Mother’s Milk,7.0
+1663,Stormfront,Gecko,7.0
+1664,Homelander,Maeve's Dad,7.0
+1665,Nurse,Cherie,7.0
+1667,Susan Raynor,Operations Agent,7.0
+1672,Frenchie,Cop,7.0
+1674,Lois,Billy Butcher,7.0
+1675,Hailey Miller,Homelander,7.0
+1677,Judy Atkinson,Lois,7.0
+1679,Soldier Boy,Stan Edgar,7.0
+1681,Street Cop,Frenchie,7.0
+1684,Alastair Adana,Stan Edgar,7.0
+1685,Buster Beaver,Crimson Countess,7.0
+1688,Crimson Countess,Black Noir,7.0
+1690,Female Bartender,Madelyn Stillwell,7.0
+1691,Female Bartender,Homelander,7.0
+1692,Dr. Damien Hodgman,The Deep,7.0
+1693,Female Bartender,Black Noir,7.0
+1694,Female Bartender,Ezekiel,7.0
+1695,Female Bartender,Queen Maeve,7.0
+1698,Homelander,Adam Bourke,7.0
+1703,Perp,Homelander,7.0
+1708,Black Noir,Supersonic,7.0
+1710,Kuldeep Singh,Tommy Peterson,7.0
+1711,Young Lenny,Billy Butcher,7.0
+1714,Young Butcher,Young Lenny,7.0
+1716,Pastor John,Curious Girl,7.0
+1717,Courtenay,A-Train,7.0
+1718,Curious Girl,Ashley Barrett,7.0
+1719,Donna January,Curious Girl,7.0
+1723,Curious Girl,Starlight,7.0
+1726,Doug Friedman,Madelyn Stillwell,7.0
+1727,Starlight,Hailey Miller,7.0
+1729,Crimson Countess,Swatto,7.0
+1730,Doug Friedman,Hugh Campbell,7.0
+1731,Jody,Secretary of Defense Robert A. Singer,7.0
+1733,Susan Raynor,Madelyn Stillwell,7.0
+1738,Believe Attendee,Hughie Campbell,7.0
+1739,Believe Attendee,Mother’s Milk,7.0
+1740,Believe Attendee,Billy Butcher,7.0
+1742,Believe Attendee,Supe Gospel Singer,7.0
+1743,Young Gunpowder,Young Grace,7.0
+1745,Guy,Cleo,7.0
+1746,Tara Reid,Cleo,7.0
+1748,Photographer,Cleo,7.0
+1749,Jody,Victoria Neuman,7.0
+1750,Mesmer,Cleo,7.0
+1752,Black Noir,Cleo,7.0
+1753,Seth Rogen,Cleo,7.0
+1754,Mother’s Milk,Cleo,7.0
+1755,Young Mesmer,Cleo,7.0
+1756,Shockwave,Cleo,7.0
+1764,Cleo,Billy Zane,7.0
+1766,Cleo,Jersey Girl,7.0
+1772,EMP Dude Patient,Starlight,7.0
+1773,Secretary of Defense Robert A. Singer,Madelyn Stillwell,7.0
+1774,EMP Dude Patient,Hughie Campbell,7.0
+1777,Monique,Susan Raynor,7.0
+1778,Young Grace,Tessa,7.0
+1781,Todd,Ashley Barrett,7.0
+1782,Billy Butcher,EMP Dude Patient,7.0
+1786,The Female's Brother (7),Mother’s Milk,7.0
+1787,Grace Mallory,Jody,7.0
+1788,The Female's Brother (7),The Female,7.0
+1790,Secretary of Defense Robert A. Singer,Grace Mallory,7.0
+1791,The Female's Brother (7),Frenchie,7.0
+1793,The Female's Brother (7),Hughie Campbell,7.0
+1794,The Female's Brother (7),Billy Butcher,7.0
+1797,Supersonic,Heckler,7.0
+1799,Mesmer,The Female's Brother (7),7.0
+1800,Billy Butcher,Lisa Concilia,7.0
+1805,A-Train,Heckler,7.0
+1808,Young The Female,Hughie Campbell,6.0
+1809,Young The Female,The Female,6.0
+1810,Young The Female,Mesmer,6.0
+1811,Young The Female,The Female's Brother (7),6.0
+1812,Frenchie,Young The Female,6.0
+1814,Billy Butcher,Young The Female,6.0
+1817,Mother’s Milk,Young The Female,6.0
+1822,Cherie,Starlight,6.0
+1823,Lisa Concilia,Grace Mallory,6.0
+1825,Stormfront,Perp,6.0
+1828,Mindstorm,Young Grace,6.0
+1829,Billy Zane,Popclaw,6.0
+1831,Soldier Boy,Scientist,6.0
+1832,Young Gunpowder,Crimson Countess,6.0
+1836,Tommy,Buster Beaver,6.0
+1837,Black Noir,Tommy,6.0
+1838,Reporter,Reporter,6.0
+1839,Starlight,Shy Boy,6.0
+1840,Tommy,Young Black Noir,6.0
+1841,Pastor John,Shy Boy,6.0
+1842,Ashley Barrett,Blue Hawk,6.0
+1844,Donna January,Shy Boy,6.0
+1845,Tessa,Buster Beaver,6.0
+1846,Tessa,Black Noir,6.0
+1847,Tessa,Stan Edgar,6.0
+1849,Lisa Concilia,Mother’s Milk,6.0
+1852,Curious Girl,Shy Boy,6.0
+1853,Lisa Concilia,Hughie Campbell,6.0
+1861,Stan Edgar,Tommy,6.0
+1870,Shy Boy,Ashley Barrett,6.0
+1876,Hughie Campbell,Secretary of Defense Robert A. Singer,6.0
+1877,Hughie Campbell,Also Ashley,6.0
+1878,Nun,Priest,6.0
+1882,Janine,Susan Raynor,6.0
+1884,Anika,Black Noir,6.0
+1886,Mindstorm,Tessa,6.0
+1888,Teacher,Hughie Campbell,6.0
+1889,Young Gunpowder,Mindstorm,6.0
+1890,Vanessa,Teacher,6.0
+1894,Priest,Soldier Boy,6.0
+1895,Trevor,Black Noir,6.0
+1896,Mindstorm,Crimson Countess,6.0
+1897,Hughie Campbell,Priest,6.0
+1901,Nun,Soldier Boy,6.0
+1903,Tessa,Young Gunpowder,6.0
+1904,Popclaw,The Female,6.0
+1905,Nun,Hughie Campbell,6.0
+1907,Filipino Guy,The Female,6.0
+1912,Tiny Hero,Billy Butcher,6.0
+1913,The Deep,Gianna,6.0
+1914,Security Guard,Tiny Hero,6.0
+1915,Starlight,Maverick,6.0
+1916,Supersonic,Cassandra,6.0
+1919,Supersonic,Choreographer,6.0
+1921,Billy Butcher,Headmaster,6.0
+1922,Young Butcher,Headmaster,6.0
+1923,Hughie Campbell,Tiny Hero,6.0
+1930,Supersonic,Victoria Neuman,6.0
+1931,Stormfront,Cindy,6.0
+1934,Starlight,Choreographer,6.0
+1936,Young Lenny,Sam,6.0
+1938,Victor,Vladislav,6.0
+1940,Homelander,Mesmer,6.0
+1942,A-Train,Billy Zane,6.0
+1943,Tiny Hero's Female Friend,Tiny Hero,6.0
+1944,Tiny Hero's Female Friend,Hughie Campbell,6.0
+1945,Tiny Hero's Female Friend,Billy Butcher,6.0
+1947,Tiny Hero's Female Friend,Security Guard,6.0
+1952,Young Starlight,Donna January,6.0
+1953,Courtenay,Elena,6.0
+1956,Donna January,Hair Stylist,6.0
+1957,Starlight,Hair Stylist,6.0
+1960,Field Producer,Homelander,6.0
+1962,A-Train,Street Cop,6.0
+1963,A-Train,Cop,6.0
+1964,Billy Butcher,Self,6.0
+1968,Ezekiel,Tiny Hero's Female Friend,5.0
+1969,Ezekiel,Tiny Hero,5.0
+1972,Security Guard,Ezekiel,5.0
+1974,Frenchie,Self,5.0
+1976,Colby's Dad,A-Train,5.0
+1977,Stormfront,Christopher Lennertz,5.0
+1978,Jill the Executive,Margaret,5.0
+1982,Headmaster,Sam,5.0
+1983,Moonshadow,Seth Reed,5.0
+1984,Crimson Countess,Seth Rogen,5.0
+1986,Supersonic,Seth Reed,5.0
+1987,The Deep,Seth Reed,5.0
+1992,Moonshadow,Evan Lambert,5.0
+1993,Evan Lambert,The Deep,5.0
+1994,Moonshadow,Also Ashley,5.0
+1995,A-Train,Victoria Neuman,5.0
+1996,Evan Lambert,Supersonic,5.0
+1998,Also Ashley,The Deep,5.0
+2000,Moonshadow,Ashley Barrett,5.0
+2002,Mesmer,Becca Butcher,5.0
+2003,Ashley Barrett,Ryan,5.0
+2010,Planet Vought Waiter,Ryan,5.0
+2011,Planet Vought Waiter,Stormfront,5.0
+2012,Cameron Coleman,Cassandra,5.0
+2014,Stan Edgar,Naqib,5.0
+2015,Scientist,Billy Butcher,5.0
+2016,Homelander,Bill Marsh,5.0
+2017,Deanna,Stormfront,5.0
+2018,Planet Vought Waiter,Homelander,5.0
+2019,Secretary of Defense Robert A. Singer,Naqib,5.0
+2020,Naqib,Doug Friedman,5.0
+2024,Starlight,Elena,5.0
+2028,Bill Marsh,Ashley Barrett,5.0
+2029,Swatto,Soldier Boy,5.0
+2036,Becca Butcher,Guard,5.0
+2037,Ryan,Guard,5.0
+2039,Victoria Neuman,Hailey Miller,5.0
+2041,Starlight,Hugh Campbell,5.0
+2043,Guard,Homelander,5.0
+2046,Colby's Dad,Colby,5.0
+2047,Carol,Gianna,5.0
+2048,Agent Bill Pearson,Queen Maeve,5.0
+2049,Trevor,Starlight,5.0
+2050,A-Train,Colby,5.0
+2053,Trevor,Ashley Barrett,5.0
+2054,Agent Bill Pearson,Ruby,5.0
+2056,Homelander,Janine,5.0
+2062,Crimson Countess,Hughie Campbell,5.0
+2063,Crimson Countess,Grace Mallory,5.0
+2064,Mother’s Milk,The Female's Brother (17),5.0
+2065,Young The Female,The Female's Brother (17),5.0
+2066,The Female's Brother (17),The Female,5.0
+2068,The Female's Brother (17),Billy Butcher,5.0
+2069,The Female's Brother (17),Hughie Campbell,5.0
+2070,Mesmer,The Female's Brother (17),5.0
+2076,The Female's Brother (17),The Female's Brother (7),5.0
+2078,The Female's Brother (17),Frenchie,5.0
+2079,Madelyn Stillwell,Stan Edgar,5.0
+2084,Teddy,Vanessa,5.0
+2086,Teddy,Teddy,5.0
+2088,Teddy,Teacher,5.0
+2089,Hughie Campbell,Teddy,5.0
+2091,Stan Edgar,Rafiq,5.0
+2093,Cassandra,Alastair Adana,5.0
+2095,Homelander,Production Assistant,5.0
+2098,Secretary of Defense Robert A. Singer,Rafiq,5.0
+2103,Naqib,Rafiq,5.0
+2105,Rafiq,Doug Friedman,5.0
+2110,Victoria Neuman,Soldier,5.0
+2111,Queen Maeve,Benjy,5.0
+2112,Ashley Barrett,Soldier,5.0
+2114,Soldier,Homelander,5.0
+2115,Security Guard,A-Train,5.0
+2116,Jamie,Queen Maeve,5.0
+2118,Christopher Lennertz,The Deep,5.0
+2124,Young Stan Edgar,Soldier Boy,5.0
+2126,Young Gunpowder,Swatto,5.0
+2128,Jay,Nurse,5.0
+2129,Jay,The Female,5.0
+2130,Mother’s Milk,Jay,5.0
+2131,Tessa,Swatto,5.0
+2136,Nathan,Courtenay,5.0
+2138,Ashley Barrett,Pat Willis,5.0
+2139,Deanna,Margaret,5.0
+2140,Bill Marsh,Pat Willis,5.0
+2141,Homelander,Pat Willis,5.0
+2142,Ashley Barrett,Jill the Executive,5.0
+2144,Ashley Barrett,Margaret,5.0
+2146,Deanna,Jill the Executive,5.0
+2152,Ashley Barrett,Chelsea,5.0
+2153,Soldier Boy,Young Gunpowder,5.0
+2154,Judy Atkinson,Stan Edgar,5.0
+2155,Also Ashley,Chelsea,5.0
+2156,Stan Edgar,Mother’s Milk,5.0
+2157,Doppelganger,Senator Calhoun,5.0
+2158,Alastair Adana,Victoria Neuman,5.0
+2166,Ashley Barrett,Hair Stylist,4.0
+2167,Headmaster,Young Lenny,4.0
+2169,Anika,Homelander,4.0
+2170,Heckler,Hughie Campbell,4.0
+2174,VNN Interviewer,Homelander,4.0
+2175,VNN Interviewer,Starlight,4.0
+2178,Operations Agent,Naqib,4.0
+2180,Naqib,Susan Raynor,4.0
+2181,Starlight,Self,4.0
+2182,Vladislav,The Female,4.0
+2183,Margaret,Homelander,4.0
+2184,Jill the Executive,Homelander,4.0
+2186,Mindstorm,Swatto,4.0
+2190,The Female,Victor,4.0
+2196,Desean,Dana Whitmyre,4.0
+2197,Arana,Dana Whitmyre,4.0
+2198,Security Guard,Nurse,4.0
+2199,Khamari,Dana Whitmyre,4.0
+2202,Dana Whitmyre,A-Train,4.0
+2203,Dana Whitmyre,Nathan,4.0
+2204,Tim,Nurse,4.0
+2210,Assistant,Victoria Neuman,4.0
+2213,Ashley Barrett,Hailey Miller,4.0
+2216,Todd,Hughie Campbell,4.0
+2217,Stan Edgar,Todd,4.0
+2218,Also Ashley,Todd,4.0
+2219,Todd,A-Train,4.0
+2221,Termite,The Female,4.0
+2224,Frenchie,Scientist,4.0
+2225,Supersonic,Todd,4.0
+2230,Todd,Heckler,4.0
+2231,Todd,Starlight,4.0
+2234,A-Train,AAW Leader,4.0
+2235,Ivy,Hughie Campbell,4.0
+2238,Hughie Campbell,Young Stan Edgar,4.0
+2239,Homelander,8 Year Old Boy,4.0
+2240,Mother’s Milk,Young Stan Edgar,4.0
+2241,8 Year Old Boy,Billy Butcher,4.0
+2243,A-Train,Gecko,4.0
+2244,Dr. Park,Guard,4.0
+2245,Dr. Park,Homelander,4.0
+2246,Dr. Park,Ryan,4.0
+2247,Dr. Park,Becca Butcher,4.0
+2248,Young Stan Edgar,Crimson Countess,4.0
+2250,Billy Butcher,Young Stan Edgar,4.0
+2256,Billy Butcher,Hostess,4.0
+2259,Young Stan Edgar,Grace Mallory,4.0
+2264,Tommy,Crimson Countess,4.0
+2265,Desean,Reporter,4.0
+2266,Supersonic,Stage Manager,4.0
+2267,A-Train,Makeup Artist,4.0
+2268,Madelyn Stillwell,Believe Attendee,4.0
+2270,Nathan,Reporter,4.0
+2271,Believe Attendee,Homelander,4.0
+2272,Stage Manager,Choreographer,4.0
+2273,Pastor John,Believe Attendee,4.0
+2274,Crimson Countess,Stan Edgar,4.0
+2278,Khamari,Reporter,4.0
+2281,AAW Leader,Makeup Artist,4.0
+2284,Fake Stillwell,Seth Rogen,4.0
+2285,Arana,Reporter,4.0
+2287,Reporter,Dana Whitmyre,4.0
+2290,A-Train,Reporter,4.0
+2296,Fake Butcher,Seth Rogen,4.0
+2298,Secretary of Defense Robert A. Singer,Black Noir,4.0
+2299,Billy Butcher,Young Black Noir,4.0
+2301,Hughie Campbell,Young Black Noir,4.0
+2302,Black Noir,Rafiq,4.0
+2303,Grace Mallory,Young Black Noir,4.0
+2306,Black Noir,Naqib,4.0
+2307,Black Noir,Doug Friedman,4.0
+2308,Billy Butcher,Pastor,4.0
+2309,Fake Butcher,Fake Stillwell,4.0
+2311,Mason,Mayor of Baltimore,4.0
+2312,Mother’s Milk,Young Black Noir,4.0
+2319,Mother’s Milk,Pastor,4.0
+2322,Excited Teen's Friend,A-Train,4.0
+2323,Excited Teen,Excited Teen's Friend,4.0
+2324,A-Train,Excited Teen,4.0
+2325,Excited Teen,Security Guard,4.0
+2327,Security Guard,Excited Teen's Friend,4.0
+2329,Mother’s Milk,Robin,4.0
+2331,Self,A-Train,4.0
+2333,Agent Bill Pearson,Adam Bourke,4.0
+2336,Donna January,Robin,4.0
+2337,Hughie Campbell,Assistant,4.0
+2342,Monique,A-Train,4.0
+2343,Monique,Supersonic,4.0
+2345,Monique,Ashley Barrett,4.0
+2347,Monique,Stan Edgar,4.0
+2348,Heckler,Monique,4.0
+2349,Monique,Also Ashley,4.0
+2350,Blue Hawk,Reporter,4.0
+2351,Blue Hawk,Dana Whitmyre,4.0
+2352,Homelander,Monique,4.0
+2353,Blue Hawk,Arana,4.0
+2354,Blue Hawk,Khamari,4.0
+2356,Blue Hawk,Desean,4.0
+2366,Starlight,Monique,4.0
+2370,Barbara,Cassandra,4.0
+2371,Young Gunpowder,Young Black Noir,4.0
+2372,Jamie,Desperate Thief #1,4.0
+2373,The Deep,Barbara,4.0
+2375,Desperate Thief #1,Benjy,4.0
+2377,Desperate Thief #1,Queen Maeve,4.0
+2380,Homelander,Ruby,4.0
+2384,Sheriff Ed Flanagan,Teacher,4.0
+2386,Choreographer,Homelander,4.0
+2388,Sheriff Ed Flanagan,Homelander,4.0
+2390,Doctor,Billy Butcher,4.0
+2393,Teacher,Homelander,4.0
+2394,Swatto,Mother’s Milk,4.0
+2395,Swatto,Billy Butcher,4.0
+2396,Swatto,Grace Mallory,4.0
+2401,Vanessa,Starlight,4.0
+2403,Swatto,Hughie Campbell,4.0
+2404,Swatto,Young Black Noir,4.0
+2408,Teddy,Starlight,4.0
+2415,Starlight,Teacher,4.0
+2424,Board Member,Ashley Barrett,3.0
+2425,Emotional Donor,Mother’s Milk,3.0
+2426,A-Train,Tiny Hero,3.0
+2427,Tiny Hero's Female Friend,A-Train,3.0
+2434,A-Train,Ezekiel,3.0
+2436,Tessa,The Deep,3.0
+2438,Billy Butcher,Supersonic,3.0
+2440,The Deep,Tommy,3.0
+2442,Maverick,The Deep,3.0
+2443,Daniel Prestia,Victoria Neuman,3.0
+2446,Madelyn Stillwell,Doppelganger,3.0
+2447,Queen Maeve,Doppelganger,3.0
+2448,Chris Hansen,Fake Stillwell,3.0
+2449,Chris Hansen,Fake Butcher,3.0
+2453,Chris Hansen,Seth Rogen,3.0
+2456,Older Girl,Shy Boy,3.0
+2457,Older Girl,Starlight,3.0
+2458,Curious Girl,Older Girl,3.0
+2459,Older Girl,Pastor John,3.0
+2461,Older Girl,Ashley Barrett,3.0
+2464,Older Girl,Donna January,3.0
+2465,Starlight,Agent Bill Pearson,3.0
+2467,Starlight,Ruby,3.0
+2472,Bill Marsh,Board Member,3.0
+2473,Board Member,Homelander,3.0
+2474,Board Member,Pat Willis,3.0
+2478,Sam Butcher,Sam,3.0
+2479,Agent Bill Pearson,Stormfront,3.0
+2481,Ruby,Stormfront,3.0
+2483,Young Lenny,Sam Butcher,3.0
+2484,Young Black Noir,Mindstorm,3.0
+2486,Tessa,Hughie Campbell,3.0
+2488,Young Butcher,Sam Butcher,3.0
+2490,Sam Butcher,Headmaster,3.0
+2494,Cassandra,Also Ashley,3.0
+2495,Daniel Prestia,Leanne Franklin,3.0
+2496,Victoria Neuman,Leanne Franklin,3.0
+2497,Cassandra,Silver Kincaid,3.0
+2498,Seth Reed,Cassandra,3.0
+2499,Cassandra,Moonshadow,3.0
+2501,Evan Lambert,Cassandra,3.0
+2508,Queen Maeve,Cassandra,3.0
+2509,Vought Executive,Victoria Neuman,3.0
+2510,Black Noir,Cassandra,3.0
+2512,Leanne Franklin,Vought Executive,3.0
+2515,Vought Executive,Daniel Prestia,3.0
+2518,Secretary of Defense Robert A. Singer,Homelander,3.0
+2519,Homelander,Lamar Bishop,3.0
+2520,Billy Butcher,Big Game,3.0
+2521,Secretary of Defense Robert A. Singer,Lamar Bishop,3.0
+2522,Secretary of Defense Robert A. Singer,Ashley Barrett,3.0
+2523,Katie Couric,Cassandra,3.0
+2524,Katie Couric,The Deep,3.0
+2525,Big Game,Tiny Hero,3.0
+2526,Moonshadow,Billy Butcher,3.0
+2527,Billy Zane,The Deep,3.0
+2528,A-Train,Random dude,3.0
+2529,Blue Hawk,Starlight,3.0
+2530,A-Train,Big Game,3.0
+2532,Big Game,Ezekiel,3.0
+2533,Big Game,Tiny Hero's Female Friend,3.0
+2534,Big Game,Security Guard,3.0
+2536,Big Game,Hughie Campbell,3.0
+2543,Billy Butcher,Silver Kincaid,3.0
+2554,Ashley Barrett,Lamar Bishop,3.0
+2556,Starlight,Frat Boy,3.0
+2557,Cool Girl,The Female,3.0
+2558,Frat Boy,Sorority Girl,3.0
+2561,Cassandra (movie version),The Deep,3.0
+2562,Cassandra (movie version),Billy Zane,3.0
+2563,Sorority Girl,Second Frat Boy,3.0
+2566,Vought Executive,Vought Executive,3.0
+2567,Sorority Girl,Starlight,3.0
+2568,Soldier Boy,Grace Mallory,3.0
+2570,Starlight,Second Frat Boy,3.0
+2574,Frat Boy,Second Frat Boy,3.0
+2577,Becca Butcher,8 Year Old Boy,3.0
+2578,U.S.S.R. Officer,Soldier Boy,3.0
+2590,Colby's Dr.,Colby,3.0
+2591,Colby's Dad,Colby's Dr.,3.0
+2593,Colby's Dr.,A-Train,3.0
+2596,Cameron Coleman,Supersonic,3.0
+2597,Cameron Coleman,Silver Kincaid,3.0
+2598,Cameron Coleman,Moonshadow,3.0
+2600,Anika,Madelyn Stillwell,3.0
+2604,Vought Executive,Stan Edgar,3.0
+2607,Stan Edgar,Leanne Franklin,3.0
+2608,Stan Edgar,Daniel Prestia,3.0
+2610,Starlight,Anika,3.0
+2614,Todd,Ryan,3.0
+2615,Vought Executive,Randall Skilton,3.0
+2616,Leanne Franklin,Randall Skilton,3.0
+2618,Randall Skilton,Victoria Neuman,3.0
+2620,Randall Skilton,Daniel Prestia,3.0
+2625,Stan Edgar,Randall Skilton,3.0
+2628,VNN Interviewer,Hughie Campbell,2.0
+2629,Mother’s Milk,Termite,2.0
+2632,Starlight,Termite,2.0
+2634,A-Train,Eagle the Archer,2.0
+2635,Lamar Bishop,Janine,2.0
+2636,Lamar Bishop,Todd,2.0
+2637,Mother’s Milk,Fake Stillwell,2.0
+2638,Mother’s Milk,Fake Butcher,2.0
+2639,Mother’s Milk,Chris Hansen,2.0
+2640,VNN News Anchor,Mother’s Milk,2.0
+2643,Todd,Secretary of Defense Robert A. Singer,2.0
+2645,Billy Zane,Frenchie,2.0
+2646,Lamar Bishop,Victoria Neuman,2.0
+2649,Homelander,Hometeamer,2.0
+2651,Secretary of Defense Robert A. Singer,Janine,2.0
+2652,Billy Butcher,Termite,2.0
+2654,Janine,Ashley Barrett,2.0
+2662,Nurse,Connie Butcher,2.0
+2663,The Female,Connie Butcher,2.0
+2665,Homelander,Mayor of Baltimore,2.0
+2666,Connie Butcher,Mother’s Milk,2.0
+2667,Connie Butcher,Hughie Campbell,2.0
+2670,Connie Butcher,Grace Mallory,2.0
+2671,Connie Butcher,Frenchie,2.0
+2673,Drummer Boy,Supersonic,2.0
+2674,Drummer Boy,Silver Kincaid,2.0
+2675,Moonshadow,Drummer Boy,2.0
+2676,Mason,Homelander,2.0
+2680,The Deep,Drummer Boy,2.0
+2684,Drummer Boy,Cameron Coleman,2.0
+2688,Vought Executive,Veronica Barassi,2.0
+2689,Stan Edgar,Veronica Barassi,2.0
+2690,Victoria Neuman,Veronica Barassi,2.0
+2691,Starlight,Secretary of Defense Robert A. Singer,2.0
+2692,Black Noir,Two Birds,2.0
+2693,Veronica Barassi,Randall Skilton,2.0
+2697,Veronica Barassi,Leanne Franklin,2.0
+2701,Veronica Barassi,Daniel Prestia,2.0
+2706,Black Noir,Courtenay,2.0
+2707,The Deep,Hailey Miller,2.0
+2708,Hughie Campbell,Chris Hansen,2.0
+2709,Soldier Boy,VNN News Anchor,2.0
+2710,Fake Stillwell,Hughie Campbell,2.0
+2711,Fake Stillwell,The Female,2.0
+2712,Fake Butcher,Hughie Campbell,2.0
+2713,Fake Butcher,The Female,2.0
+2715,Chris Hansen,The Female,2.0
+2716,Cassandra,Hailey Miller,2.0
+2718,Black Noir,Reality Editor,2.0
+2719,Hughie Campbell,Seth Rogen,2.0
+2720,The Deep,Reality Editor,2.0
+2721,Victoria Neuman,Ivy,2.0
+2722,Hughie Campbell,Young Nadia,2.0
+2725,Seth Rogen,The Female,2.0
+2726,The Deep,Courtenay,2.0
+2727,A-Train,Reality Editor,2.0
+2729,Homelander,Reality Editor,2.0
+2732,Reality Editor,Queen Maeve,2.0
+2734,Courtenay,Reality Editor,2.0
+2737,Homelander,Courtenay,2.0
+2750,Hughie Campbell,Male Supe,2.0
+2752,Ivy,Billy Butcher,2.0
+2753,Black Noir,Victoria Neuman,2.0
+2754,Black Noir,Random dude,2.0
+2759,Tommy,Hughie Campbell,2.0
+2760,Seafood Guy,The Deep,2.0
+2762,Adam Bourke,Hughie Campbell,2.0
+2765,Todd,Victoria Neuman,2.0
+2768,Victoria Neuman,Janine,2.0
+2773,Entertainment Reporter,A-Train,2.0
+2776,Cameron Coleman,Queen Maeve,2.0
+2777,Jimmy Fallon,Translucent,2.0
+2780,Naqib,Syrian Boy,2.0
+2781,Female News Anchor,A-Train,2.0
+2782,Syrian Boy,Rafiq,2.0
+2784,Syrian Boy,Secretary of Defense Robert A. Singer,2.0
+2785,Syrian Boy,Stan Edgar,2.0
+2787,Syrian Boy,Doug Friedman,2.0
+2789,Young Stan Edgar,Young Gunpowder,2.0
+2790,Black Noir,Syrian Boy,2.0
+2792,Young Gunpowder,Billy Butcher,2.0
+2793,Grace Mallory,Young Gunpowder,2.0
+2797,Mother’s Milk,Young Gunpowder,2.0
+2798,Young Gunpowder,Hughie Campbell,2.0
+2803,Adam Bourke,Reporter,2.0
+2806,Robin,A-Train,2.0
+2808,A-Train,Gary,2.0
+2814,Pastor,Hughie Campbell,2.0
+2816,Frenchie,Chris Hansen,2.0
+2817,Homelander,Jamie,2.0
+2818,Frenchie,Seth Rogen,2.0
+2819,Benjy,Homelander,2.0
+2821,Frenchie,Fake Stillwell,2.0
+2822,Frenchie,Fake Butcher,2.0
+2824,Homelander,Desperate Thief #1,2.0
+2830,Tommy,U.S.S.R. Officer,2.0
+2832,Stormfront,Female News Anchor,2.0
+2834,Tessa,Young Stan Edgar,2.0
+2836,U.S.S.R. Officer,Tessa,2.0
+2838,Anika,Ashley Barrett,2.0
+2840,Hometeamer,Starlighter,2.0
+2841,ESPN Interviewer,Commercial Son,2.0
+2842,Ruby,Ashley Barrett,2.0
+2843,Shockwave,Commercial Son,2.0
+2848,Homelander,Entertainment Reporter,1.0
+2849,Soldier Boy,Janine,1.0
+2850,Young Grace,Claudio,1.0
+2852,Claudio,Young Stan Edgar,1.0
+2853,Billy Butcher,Entertainment Reporter,1.0
+2857,Homelander,Two Birds,1.0
+2858,Black Noir,Woman from accounting,1.0
+2861,VNN News Anchor,Janine,1.0
+2865,Tina,Mother’s Milk,1.0
+2866,Commercial Mom,Commercial Son,1.0
+2867,Tina,Shockwave,1.0
+2868,Tina,Tara Reid,1.0
+2869,Tina,Guy,1.0
+2870,Tina,Photographer,1.0
+2871,Tina,Jersey Girl,1.0
+2872,Tina,Cleo,1.0
+2873,Starlight,Janine,1.0
+2875,Commercial Mom,Shockwave,1.0
+2876,Mother’s Milk,Anika,1.0
+2877,Anika,Barbara,1.0
+2878,Starlight,Susan Raynor,1.0
+2881,Billy Zane,Tina,1.0
+2883,Tina,Mesmer,1.0
+2885,Tina,Young Mesmer,1.0
+2889,Super Villain,Homelander,1.0
+2891,Black Noir,Tina,1.0
+2892,Seth Rogen,Tina,1.0
+2895,ESPN Interviewer,Commercial Mom,1.0
+2906,Queen Maeve,Anika,1.0
+2907,Michel,Billy Butcher,1.0
+2908,Starlighter,Starlight,1.0
+2909,Hometeamer,Starlight,1.0
+2911,Frenchie,Victor,1.0
+2912,Frenchie,Vladislav,1.0
+2913,Frenchie,Michel,1.0
+2914,Grace Mallory,Donna January,1.0
+2916,Clerk,Hughie Campbell,1.0
+2924,Kenji Miyashiro,Vought Executive,1.0
+2926,Kenji Miyashiro,Daniel Prestia,1.0
+2927,Kenji Miyashiro,Leanne Franklin,1.0
+2928,Kenji Miyashiro,Victoria Neuman,1.0
+2929,Veronica Barassi,Kenji Miyashiro,1.0
+2930,Randall Skilton,Kenji Miyashiro,1.0
+2931,Female Bartender,Doppelganger,1.0
+2934,Swatto,Claudio,1.0
+2936,Frenchie,Moe,1.0
+2939,Security Guard,Victoria Neuman,1.0
+2941,Random dude,Security Guard,1.0
+2950,Commercial Son,The Deep,1.0
+2951,MM's Dad,Mother’s Milk,1.0
+2952,Young Marvin,MM's Dad,1.0
+2953,Young Marvin,Soldier Boy,1.0
+2954,Young Marvin,Mother’s Milk,1.0
+2957,Mother’s Milk,Mindstorm,1.0
+2958,MM's Dad,Soldier Boy,1.0
+2959,Shockwave,The Deep,1.0
+2960,ESPN Interviewer,The Deep,1.0
+2963,Victoria Neuman,Soldier Boy,1.0
+2964,The Deep,Commercial Mom,1.0
+2970,Mindstorm,Young Stan Edgar,1.0
+2971,Grace Mallory,Mindstorm,1.0
+2976,Ivy,Simon,1.0
+2977,Todd,Soldier Boy,1.0
+2978,Tessa,Male Supe,1.0
+2979,Billy Butcher,Tessa,1.0
+2980,Secretary of Defense Robert A. Singer,Frenchie,1.0
+2981,Homelander,Starlighter,1.0
+2982,The Female,Secretary of Defense Robert A. Singer,1.0
+2983,Stormfront,Also Ashley,1.0
+2984,Tommy,Male Supe,1.0
+2986,Tessa,Grace Mallory,1.0
+2988,Nathan,Doctor,1.0
+2989,Tessa,Mother’s Milk,1.0
+2992,Victoria Neuman,Simon,1.0
+2994,Simon,Hughie Campbell,1.0
+2995,Carol,A-Train,1.0
+2996,VNN News Anchor,Todd,1.0
+3008,Anika,Cassandra,1.0
+3009,The Deep,Anika,1.0
+3012,MM's Grandpa,Young Marvin,1.0
+3013,Two Birds,Young Black Noir,1.0
+3014,The Female,Entertainment Reporter,1.0
+3015,Tommy,Two Birds,1.0
+3016,MM's Grandpa,Soldier Boy,1.0
+3018,Popclaw,Trevor,1.0
+3019,Two Birds,Buster Beaver,1.0
+3020,Billy Zane,Trevor,1.0
+3021,Mother’s Milk,Secretary of Defense Robert A. Singer,1.0
+3022,Mother’s Milk,MM's Grandpa,1.0
+3023,Two Birds,Stan Edgar,1.0
+3024,MM's Grandpa,MM's Dad,1.0
+3025,A-Train,Trevor,1.0
+3027,Soldier Boy,Two Birds,1.0
+3029,Trevor,Frenchie,1.0
+3032,Trevor,Madelyn Stillwell,1.0
+3033,Trevor,Anika,1.0
+3042,Two Birds,Crimson Countess,1.0
+3047,Tessa,Two Birds,1.0
+3050,Anika,The Female,1.0
+3051,Becca Butcher,Michel,1.0
+3052,Armed Soldier,Billy Butcher,1.0
+3054,Anika,Billy Butcher,1.0
+3058,Stan Edgar,Young Nadia,1.0
+3060,Billy Butcher,Secretary of Defense Robert A. Singer,1.0
+3062,Stormfront,Self,1.0
+3064,Billy Butcher,Peter,1.0
+3066,Hughie Campbell,U.S.S.R. Officer,1.0
+3067,The Female,Peter,1.0
+3068,Billy Butcher,Butcher's Mother,1.0
+3072,Female from the Car,The Deep,1.0
+3073,Commercial Son,Madelyn Stillwell,1.0
+3074,Madelyn Stillwell,ESPN Interviewer,1.0
+3075,Madelyn Stillwell,Shockwave,1.0
+3076,Doctor,A-Train,1.0
+3078,Madelyn Stillwell,Commercial Mom,1.0
+3084,Mamasan Matron,The Female,1.0
+3085,Starlight,Drummer Boy,1.0
+3086,Cameron Coleman,Starlight,1.0
+3087,Female News Anchor,Lamar Bishop,1.0
+3089,Stan Edgar,Samantha,1.0
+3090,Eagle the Archer,Black Noir,1.0
+3096,Hughie Campbell,Reporter,1.0
+3100,Guy,Homelander,1.0
+3101,Guy,Ryan,1.0
+3102,Valerie,Stormfront,1.0
+3104,Myron,Stormfront,1.0
+3108,Self,Stan Edgar,1.0
+3109,Jimmy Fallon,Hughie Campbell,1.0
+3110,Ashley Barrett,Self,1.0
+3114,Female News Anchor,The Female,0.0
+3115,Tessa,Claudio,0.0
+3116,Frenchie,Female News Anchor,0.0
+3117,Lamar Bishop,Soldier Boy,0.0
+3118,Ashley Barrett,Soldier Boy,0.0
+3119,Lamar Bishop,Frenchie,0.0
+3120,Lamar Bishop,The Female,0.0
+3121,Gills,Eagle the Archer,0.0
+3122,Gills,Carol,0.0
+3127,Secretary of Defense Robert A. Singer,Soldier Boy,0.0
+3134,Cassandra,Self,0.0
+3135,Hometeamer,Ryan,0.0
+3136,Self,The Deep,0.0
+3140,The Deep,Livewire,0.0
+3141,Starlight,Livewire,0.0
+3142,The Female,Yevgenny,0.0
+3146,Livewire,Drummer Boy,0.0
+3147,Livewire,Silver Kincaid,0.0
+3148,Cameron Coleman,Livewire,0.0
+3149,Livewire,Moonshadow,0.0
+3150,Livewire,Supersonic,0.0
+3156,Todd,Frenchie,0.0
+3158,Lamar Bishop,Billy Butcher,0.0
+3159,Hometeamer,Stormchaser,0.0
+3160,Female News Anchor,Billy Butcher,0.0
+3164,The Female,Little Nina,0.0
+3166,Soldier Boy,Claudio,0.0
+3167,Claudio,Young Black Noir,0.0
+3170,Blue Hawk,Doctor,0.0
